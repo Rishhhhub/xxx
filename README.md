@@ -38,19 +38,23 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<hr>
+
+
+### ⚒️ Programming Languages and Tools
+<img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813908546852880405.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
+
+<hr>
+
 </p>
 </br>
 </br>
