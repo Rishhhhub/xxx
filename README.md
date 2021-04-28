@@ -34,7 +34,7 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<p align="center">
+<p align="centre">
 
 ### ⚒️ Programming Languages and Tools
 <img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
