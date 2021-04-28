@@ -13,8 +13,6 @@
 
 ### - I'm a Student and a programmer from India.
 
-<img hight="90" width="250" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
-
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ C++ programming & web-development
@@ -61,9 +59,6 @@
 
 <p>
  </br>
-
-
-<img hight="170" width="300" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
