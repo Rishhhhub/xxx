@@ -31,24 +31,24 @@
 
    <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/ruby.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/docker.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/ruby.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg"></code>
+    <code><img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/docker.svg"></code>
     <code>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/webstorm.svg">
+    <img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/webstorm.svg">
     </code>
     <code>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg">
+    <img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg">
     </code>
     <code>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg">
+    <img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg">
     </code>
     <code>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg">
+    <img width="35px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg">
     </code>
     <hr>
 
