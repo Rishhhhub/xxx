@@ -38,9 +38,6 @@
 
 <p align="center">
 
-<hr>
-
-
 ### ⚒️ Programming Languages and Tools
 <img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
@@ -52,8 +49,6 @@
 <img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
-
-<hr>
 
 </p>
 </br>
