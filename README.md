@@ -13,7 +13,7 @@
 
 ### - I'm a Student and a programmer from India.
 
-<img hight="150" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
+<img hight="90" width="250" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
