@@ -29,29 +29,28 @@
 
 </br>
 
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-
-### ⚒️ Programming Languages and Tools
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813908546852880405.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909686449078353.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/813909685542584321.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/761974754122924054.gif?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
-
-</p>
-</br>
-</br>
-</br>
-
+   <hr>
+    <h4> <i> Programming Languages and Tools </i> </h4>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/cpp.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/ruby.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/docker.svg"></code>
+    <code>
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/webstorm.svg">
+    </code>
+    <code>
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/intellij.svg">
+    </code>
+    <code>
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg">
+    </code>
+    <code>
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg">
+    </code>
+    <hr>
 
 
 # Contact Me :
