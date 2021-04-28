@@ -1,7 +1,7 @@
 # Kon'nichiwa 👋
 
 <div align="center">
-<img hight="200" width="400" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
+<img hight="500" width="1920" alt="jpg" align="center" src="https://github.com/Rishhhhub/Rishhhhub/blob/main/banner%20.jpg">
 </div>
 
 </br>
